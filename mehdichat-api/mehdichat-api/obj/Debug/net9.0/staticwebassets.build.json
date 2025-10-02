@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TBaNRUItbbJiveDBc2QBC+OjYefho72hmp5V60WP/nY=",
+  "Source": "mehdichat-api",
+  "BasePath": "_content/mehdichat-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
